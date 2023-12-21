@@ -5,7 +5,7 @@ menu = "main"
 
 # Research
 
-Updated on October 12th, 2023
+Updated on December 21st, 2023
 
 [Download the abstract of papers](/papers/abstract.pdf).
 
