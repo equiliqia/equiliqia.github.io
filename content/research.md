@@ -30,9 +30,9 @@ In particular, we study the first price auction in discretized bidding and value
 [View paper](/papers/level-k.pdf)
 
 ---
-
+<!-- 
 ## Combinatorial Auction for Non-identical Items (In-Progress)
 
 We look at a combinatorial auction with non-identical items. When items are non-identical, bidders need to specify their bids for each particular item, which indicates different behaviours from multi-unit auction with identical units. [^1]
 
-[^1]: This paper is still in progress and I do not have results to report.
+[^1]: This paper is still in progress and I do not have results to report. -->
