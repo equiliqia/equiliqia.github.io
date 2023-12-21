@@ -7,6 +7,9 @@ menu = "main"
 
 
 Courses Taught
+
 Principles of Economics
+
 Intermediate Microeconomics
+
 Math for MAE program
