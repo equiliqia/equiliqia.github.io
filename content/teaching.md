@@ -6,7 +6,7 @@ menu = "main"
 # Teaching
 
 
-Courses Taught
+##Courses Taught
 
 Principles of Economics
 
@@ -16,7 +16,7 @@ Math for MAE program
 
 
 
-Seletion of Student Evaluations
+##Seletion of Student Evaluations
 
 "Qian is a great instructor. I really enjoyed the time that he explained more about the game theory. I think his classes would be better
 if he combined doing exercise with recapping lecture materials(even if just for a few minutes). Overall, I think Qian's way of teaching
