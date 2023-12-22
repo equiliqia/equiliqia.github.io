@@ -8,11 +8,11 @@ menu = "main"
 
 Courses Taught
 
-Principles of Economics
+Principles of Economics (ECON 101, University of Michigan)
 
-Intermediate Microeconomics
+Intermediate Microeconomics (ECON 401, University of Michigan)
 
-Math for MAE program
+Math for Master of Applied Economics program (ECON 500, University of Michigan)
 
 ---
 
