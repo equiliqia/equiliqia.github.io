@@ -8,4 +8,4 @@ His research interests are microeconomics theory, auctions and game theory.
 
 ---
 
-**Email**: *liqia at umich dot edu*
+📧: *liqia at umich dot edu*
