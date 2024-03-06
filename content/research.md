@@ -1,3 +1,8 @@
++++
+title = "Research"
+menu = "main"
++++
+
 # Research
 
 *Updated on December 21st, 2023*

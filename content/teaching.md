@@ -1,3 +1,8 @@
++++
+title = "Teaching"
+menu = "main"
++++
+
 # Teaching
 
 - Principles of Economics (ECON 101, University of Michigan)
